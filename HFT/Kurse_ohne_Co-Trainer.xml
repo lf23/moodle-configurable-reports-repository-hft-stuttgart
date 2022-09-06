@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<report version="2022010800"><visible><![CDATA[1]]></visible>
+<report version="2020110300"><visible><![CDATA[1]]></visible>
 <name><![CDATA[Kurse ohne Co-/Trainer]]></name>
 <summary><![CDATA[<p>Kurse ohne Trainer und Co-Trainer,<br /><br />dass heißt es gibt keine Rollenzuweisung Co-/Trainer zu dem jeweiligen Kurs</p>]]></summary>
 <summaryformat><![CDATA[1]]></summaryformat>
@@ -9,7 +9,7 @@
 <export><![CDATA[]]></export>
 <jsordering><![CDATA[1]]></jsordering>
 <global><![CDATA[0]]></global>
-<lastexecutiontime><![CDATA[97]]></lastexecutiontime>
+<lastexecutiontime><![CDATA[908]]></lastexecutiontime>
 <cron><![CDATA[0]]></cron>
 <remote><![CDATA[0]]></remote>
 </report>
