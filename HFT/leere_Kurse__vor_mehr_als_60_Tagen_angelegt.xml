@@ -2,9 +2,9 @@
 <report version="2020110300"><visible><![CDATA[1]]></visible>
 <name><![CDATA[leere Kurse, vor mehr als 60 Tagen angelegt]]></name>
 <summary><![CDATA[<p>ein Kurs ist leer wenn keiner der folgenden Punkte im Kurs vorhanden ist:</p>
-<p>book,Â resource (file),Â folder,Â imscp (IMS content package),Â label,Â url,Â page</p>
-<p>assignment,Â chat,Â choice,Â database,Â feedback,Â glossary,Â lesson,Â lit (external tools),Â quiz,Â scrom,Â survey,Â wiki,Â workshop</p>
-<p>Â </p>]]></summary>
+<p>book, resource (file), folder, imscp (IMS content package), label, url, page</p>
+<p>assignment, chat, choice, database, feedback, glossary, lesson, lit (external tools), quiz, scrom, survey, wiki, workshop</p>
+<p> </p>]]></summary>
 <summaryformat><![CDATA[1]]></summaryformat>
 <type><![CDATA[sql]]></type>
 <pagination><![CDATA[0]]></pagination>
